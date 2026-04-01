@@ -6,6 +6,7 @@ The objective of this project is to analyze Apple’s social media campaign perf
 - <a href="https://docs.google.com/spreadsheets/d/1FicvoxOk9lrR40og4HC8AmGN5EFGqKCRB_Tq47Ypcvo/edit?usp=sharing">Dataset</a>
 ## Tasks 
 Task 1: Data Preprocessing & Cleaning 
+
 ● Remove duplicate Tesla posts. 
 ● Standardize date & platform names. 
 ● Format numeric columns (Likes, Reach, Impressions, Ad Spend). 
@@ -51,6 +52,7 @@ Task 6: Follower Retention & Loyalty
 ● Use moving averages to smooth growth trends. 
 ● Correlate ad spend vs. follower growth using scatter plots. 
 Task 7: Video explanation: Expressing the finding and actionable insights 
+
 <img width="1149" height="489" alt="Screenshot 2026-04-01 130820" src="https://github.com/user-attachments/assets/89f11db8-5e83-41b0-af9a-224602d0e20d" />
 
 <img width="605" height="360" alt="Screenshot 2026-04-01 130857" src="https://github.com/user-attachments/assets/944f3c30-6123-4bd4-879d-606e649a3358" />
